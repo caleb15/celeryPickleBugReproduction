@@ -1,5 +1,6 @@
 *.code-workspace
 .vscode
+.python-version
 
 ## standard python gitignore
 # Byte-compiled / optimized / DLL files
