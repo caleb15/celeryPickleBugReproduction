@@ -13,6 +13,8 @@ task fails and then a while later queue fails
 
 ### Other notes:
 
+I used Python 3.7.7, not sure if that matters.
+
 Stacktrace:
 ```
 (fifteen5) ╭─caleb@caleb-H110M-A ~/Documents/misc/celeryPickleBug  ‹master*› 
