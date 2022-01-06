@@ -1,2 +1,2 @@
-celery==4.4.5
+celery==5.2.2
 recurly==2.9.16  # API version 2.26, https://dev.recurly.com/v2.26/docs
